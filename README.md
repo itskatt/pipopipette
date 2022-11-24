@@ -1,3 +1,3 @@
 # Pipopipette
 
-_Jeu de pipopipette avec IA, fait en classe de NSI_
+_Jeu de [pipopipette](https://fr.wikipedia.org/wiki/La_Pipopipette) avec IA, fait en classe de NSI_
